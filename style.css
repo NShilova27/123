@@ -1,0 +1,487 @@
+html,
+body { display: flex; 
+    flex-wrap: wrap;
+    width: 1440px;
+height: 2047px;
+background: #FFFFFF;
+
+}
+
+.page-header {
+
+    display: flex; 
+    flex-wrap: wrap;
+
+}
+
+
+
+
+.fignya {
+   /* display: block;
+    
+    margin-left: auto;
+    margin-right: auto;  
+    position: absolute; */
+
+   margin-left: 720px;
+        height: 55px;
+        width: 55px;
+          
+         
+         margin-top: 46px;
+        right: 692px;
+    
+}
+
+ 
+
+h1 {
+    width: 347px;
+    height: 47px;
+    margin-left: 547px;
+    top: 60px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    letter-spacing: 1px;
+    
+    /* черный */
+    
+    color: #000000;
+
+
+}
+
+
+.shapka-kartinka-fse {
+    width: 1440px;
+    height: 464px;
+    left: 0px;
+    margin-top: 0;
+    background-image:  url("img/ribi.jpg");  
+}
+
+
+.shapka {
+    width: 800px;
+    height: 80px;
+    margin-left: 344px;
+    top: 351px;
+    font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FFFFFF;
+
+}
+ .shapka-text {
+    width: 456px;
+        height: 64px;
+    margin-left: 492px;
+    top: 570px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    /* or 150% */
+    text-align: center;
+    color: #FFFFFF;
+        
+}
+.ewe-kartinki {
+    
+  display: flex; 
+  flex-direction: row; 
+  width: 1440px;
+  margin-top: 0;
+  flex-wrap: no-wrap;
+}
+
+.obzori {
+    width: 83px;
+    height: 20px;
+    margin-left: 678px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    top: 726px;
+    font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 2px;
+
+color: #000000;
+
+}
+
+
+
+.kartinki1 {
+   /* background-image:  url("img/monparnas.jpg");  
+background-repeat: no-repeat;*/
+margin-left: 137px;
+width: 370px;
+height: 350px;
+left: 137px;
+top: 766px;
+align-content: flex-start;
+ 
+}
+.kartinki2 {
+   /* background-image:  url("img/lapi.png");  
+    background-repeat: no-repeat;*/
+    margin-left: 29px;
+
+width: 370px;
+height: 203px;
+left: 137px;
+top: 766px;
+ 
+}
+
+.kartinki3 { 
+     
+/*background-image:  url("img/chudaki.jpg");  
+    background-repeat: no-repeat;*/
+    width: 370px;
+height: 203px;
+ 
+top: 766px;
+ 
+}
+
+figcaption a{
+    width: 368px;
+    height: 31px;
+    left: 137px;
+    top: 989px;
+    font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+/* identical to box height */
+
+text-decoration: none;
+/* черный */
+
+color: #000000;
+
+
+}
+
+a:active {
+
+    color: #FF7931;
+}
+
+.text1 {
+    width: 370px;
+    height: 62px;
+    left: 935px;
+    top: 1030px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+    
+    
+    color: #000000;  
+
+}
+
+
+figure img {width: 370px;
+    height: 203px;
+    left: 935px;
+     top: 766px;
+
+
+}
+
+/* .circle {
+    width:600px;
+ height:600px;
+ 
+ display:block;
+ border-radius:50px;
+ -moz-border-radius:50px;
+ -webkit-border-radius:50px;
+ -khtml-border-radius:50px;
+ font-size:20px; color:#fff;
+ line-height:100px;
+ text-align:center;
+ background:#000
+    }*/
+
+.obzori1 {
+    width: 300px;
+    height: 20px;
+    margin-left: 604px;
+    top: 1178px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    letter-spacing: 2px;
+    
+    color: #000000;
+        
+
+}
+
+.posti {
+    display: flex; 
+    flex-direction: row; 
+  
+    
+    flex-wrap: no-wrap;
+    flex-direction: column;
+    justify-content: center;
+    width: 1440px;
+height: 556px;
+ 
+top: 1145px;
+
+background: #F7F7F7;
+mix-blend-mode: normal;
+
+}
+
+
+
+.zagolovok{
+    width: 368px;
+    height: 31px;
+    left: 536px;
+    top: 1233px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 23px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* черный */
+    
+    color: #000000;
+    margin-left: 536px; 
+}
+
+.text {
+    width: 370px;
+    height: 63px;
+    left: 535px;
+    top: 1530px;
+    font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+text-align: center;
+margin-left: 536px; 
+color: #000000;
+
+
+}
+
+.knopka {
+    width: 170px;
+    height: 47px;
+    left: 635px;
+    top: 1618px;
+
+}
+
+   /* .button {
+        width: auto;
+        height: 26px;
+        border: 1px solid #0a3c59;
+        background: #3e779d;
+        
+        
+        border-radius: 6px;
+        
+        text-shadow: #7ea4bd 0 1px 0;
+        color: #eff1f2;
+        font-size: 17px;
+        font-family: helvetica, serif;
+        text-decoration: none;
+        vertical-align: middle;
+        }*/
+     
+        input[type="button"] {
+            display: inline-block;
+            margin: 0 5px;
+            padding: 6px 15px;
+          
+            color: #ffffff;
+          
+            background-color: #FF7931;;
+            border: none;
+            width: 170px;
+height: 47px;
+margin-left: 635px;
+top: 1618px;
+
+          }
+
+
+.main-menu {
+
+   display: flex; 
+             bottom: 153px;
+             font-size:15px;
+            
+            list-style-type: none;
+         
+            padding:0;
+            
+            justify-content: space-between;
+            width: 100%;
+            margin-bottom: 25px;
+        
+            margin-left: 145px;
+            width: 1440px;        
+        }
+
+
+}          
+
+.main-menu ul {
+    margin: 0;
+    margin-left: 130px;
+ 
+    padding: 0;
+    list-style: none;
+  }
+  
+  .main-menu li {
+    display: inline-block;
+    margin-right: 1em;
+  }
+
+  .podval ul {
+    margin: 0;
+    margin-left: 130px;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .podval li {
+    display: inline-block;
+    margin-right: 1em;
+    
+  }
+
+  li {
+      width: 84px;
+height: 18px;
+left: 135px;
+top: 153px;
+}
+
+
+.main-menu a {
+    
+    color: black;
+
+    text-decoration: none;
+}
+
+.page-footer {
+    width: 1440px;
+    height: 295px;
+    left: 0px;
+    top: 1751px;
+     margin-top: 100px;
+    background-color: #575757;
+    
+}
+.podval-zagolovok {
+    width: 281px;
+    height: 38px;
+    margin-left: 580px;
+    top: 1777px;
+    font-family: Playfair Display;
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 37px;
+/* identical to box height */
+
+letter-spacing: 1px;
+
+/* белый */
+
+color: #FFFFFF;
+
+}
+
+.page-footer a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+ .iconki {
+  
+       
+   
+    margin-left:470px;
+top: 1953px;
+
+
+ }
+
+ .iconki li img {
+    width:30px;
+    height:30px;
+    margin-right: 20px;
+    padding-top: 9px;
+    padding-left: 9px;
+  }
+
+ .iconki ul li
+ { 
+    
+    margin-top: 50px;
+    list-style:none;
+   margin-left: 14px;  
+   width: 47px;
+   height: 47px;
+   background-color: white;
+ }
+
+hr {
+    width: 1170px;
+    margin-top: 46px;
+    border: none; /* Убираем границу */
+    background-color: #FFFFFF; /* Цвет линии */
+    color:#FFFFFF; /* Цвет линии для IE6-7 */
+    height: 1px; /* Толщина линии */
+   }
+
+ 
