@@ -40,6 +40,7 @@ h1 {
     width: 347px;
     height: 47px;
     margin-left: 547px;
+    margin-right: 546px;
     top: 60px;
     font-family: Playfair Display;
     font-style: normal;
@@ -71,7 +72,7 @@ h1 {
     width: 800px;
     height: 80px;
     margin-left: 344px;
-    top: 351px;
+    margin-top: 30px;
     font-family: Roboto, sans-serif;
 font-style: normal;
 font-weight: normal;
@@ -87,7 +88,7 @@ color: #FFFFFF;
     width: 456px;
         height: 64px;
     margin-left: 492px;
-    top: 570px;
+    margin-top: 130px;
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -373,15 +374,16 @@ top: 1618px;
 
 .main-menu ul {
     margin: 0;
-    margin-left: 130px;
- 
+    margin-left: 135px;
+    margin-right: 134px;
+     
     padding: 0;
     list-style: none;
   }
   
   .main-menu li {
     display: inline-block;
-    margin-right: 1em;
+    margin-right: 3em;
   }
 
   .podval ul {
@@ -483,5 +485,7 @@ hr {
     color:#FFFFFF; /* Цвет линии для IE6-7 */
     height: 1px; /* Толщина линии */
    }
+
+   
 
  
